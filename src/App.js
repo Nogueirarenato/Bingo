@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import React, { useState, useEffect } from 'react';
-import BingoPNG from './img/bingo.gif'
+import BingoPNG from './bingo.gif'
 
 
 function App() {
