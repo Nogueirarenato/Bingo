@@ -329,7 +329,7 @@ function App() {
               começar nova partida...
             </button>
 
-            <img className="photoPNG" src={BingoPNG} width="auto" height="300"></img>
+          <h1> Bingo da Amizade!!</h1>
 
             <div className='coluna'><p>{coluna}</p></div>
 
@@ -361,7 +361,7 @@ function App() {
 
 
 
-          <table className="tableizer-table">
+          <table className="tableizer-table table">
             <thead><tr className="tableizer-firstrow"><th colSpan="2">B</th><th colSpan="2">I</th><th colSpan="2">N</th><th colSpan="2">G</th><th colSpan="2">O</th></tr></thead><tbody>
               <tr>
                 <td style={{ color: bola_1 }}>01</td>
