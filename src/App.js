@@ -362,7 +362,7 @@ function App() {
 
 
           <table className="tableizer-table table">
-            <thead><tr className="tableizer-firstrow"><th colSpan="2">B</th><th colSpan="2">I</th><th colSpan="2">N</th><th colSpan="2">G</th><th colSpan="2">O</th></tr></thead><tbody>
+            <thead><tr className="tableizer-firstrow"><th colSpan="2" style={{borderRight: "1px dotted black"}}>B</th><th colSpan="2" style={{borderRight: "1px dotted black"}} >I</th><th colSpan="2" style={{borderRight: "1px dotted black"}}>N</th><th colSpan="2" style={{borderRight: "1px dotted black"}}>G</th><th colSpan="2" style={{borderRight: "1px dotted black"}}>O</th></tr></thead><tbody>
               <tr>
                 <td style={{ color: bola_1 }}>01</td>
                 <td style={{ color: bola_2 }}>02</td>
